@@ -18,3 +18,7 @@
   
   ## Tests
   To run the tests, open the repository on your local computer in VS Code or your preferred code editor. Run "npm run test" in the integrated terminal to see the tests pass.
+
+  ## Sources
+  Tutoring assistance from Phillip Loy, some code from modules.
+  
